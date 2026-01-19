@@ -20,11 +20,11 @@ This repository contains the comprehensive projects and documentation completed 
 
 - Process:
 
-Data Auditing: Inspected data types, handled null values, and treated outliers.
+// Data Auditing: Inspected data types, handled null values, and treated outliers.
 
-Statistical Profiling: Calculated measures of central tendency and dispersion.
+// Statistical Profiling: Calculated measures of central tendency and dispersion.
 
-Hypothesis Testing: Validated assumptions about variables using correlation matrices and distribution plots.
+// Hypothesis Testing: Validated assumptions about variables using correlation matrices and distribution plots.
 
 - Insights: Identified critical trends and anomalies that inform business intelligence.
 
@@ -46,9 +46,9 @@ Hypothesis Testing: Validated assumptions about variables using correlation matr
 
 - Workflow:
 
-Text Preprocessing: Tokenization, lemmatization, and noise reduction (Stop-word removal).
+// Text Preprocessing: Tokenization, lemmatization, and noise reduction (Stop-word removal).
 
-Sentiment Modeling: Classified text into Positive, Negative, or Neutral using NLP lexicons and emotional detection algorithms.
+// Sentiment Modeling: Classified text into Positive, Negative, or Neutral using NLP lexicons and emotional detection algorithms.
 
 - Application: Analyzed sources like Amazon reviews or social media to derive actionable brand insights.
 
@@ -63,11 +63,11 @@ Sentiment Modeling: Classified text into Positive, Negative, or Neutral using NL
 # 🚀 Installation & Usage
 - Clone the Repository:
 
-git clone https://github.com/YourUsername/CodeAlpha_Data_Analytics.git
+// git clone https://github.com/YourUsername/CodeAlpha_Data_Analytics.git
 
 - Setup Environment:
 
-pip install -r requirements.txt
+// pip install -r requirements.txt
 
 - Execution: Explore the individual task folders (e.g., /Task-01-Web-Scraping) and run the Jupyter notebooks to see the analysis in real-time.
 
