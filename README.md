@@ -1,6 +1,6 @@
 # CodeAlpha Data Analytics Internship
 
-This repository contains the comprehensive projects and documentation completed during my Data Analytics Internship at CodeAlpha. The curriculum covers the entire data pipeline—from automated collection and cleaning to advanced visualization and sentiment modeling.
+This repository contains the comprehensive projects and documentation completed during my Data Analytics Internship at CodeAlpha. The curriculum covers the entire data pipeline from automated collection and cleaning to advanced visualization and sentiment modeling.
 
 # 📂 Project Structure
 
