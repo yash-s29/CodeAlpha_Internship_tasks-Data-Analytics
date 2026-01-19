@@ -76,7 +76,7 @@ Execution: Explore the individual task folders (e.g., /Task-01-Web-Scraping) and
 
 - Custom Dataset Creation: Successfully built 3+ unique datasets from the web.
 
-- Insight-Driven: Not just code—focused on the why behind the data.
+- Insight-Driven: Not just code focused on the why behind the data.
 
 - Portfolio Ready: All visualizations are designed with a focus on UI/UX for data reports.
 
