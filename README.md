@@ -64,7 +64,9 @@ This repository contains the comprehensive projects and documentation completed 
 
 Clone the Repository:
 
-git clone https://github.com/YourUsername/CodeAlpha_Data_Analytics.git
+git clone https://github.com/yash-s29/C
+
+odeAlpha_Internship_tasks-Data-Analytics.git
 
 Setup Environment:
 
@@ -81,4 +83,4 @@ Execution: Explore the individual task folders (e.g., /Task-01-Web-Scraping) and
 - Portfolio Ready: All visualizations are designed with a focus on UI/UX for data reports.
 
 # 🤝 Connect with Me
-[Yash Patil]
+Yash patil | https://www.linkedin.com/in/yash-patil279 | yp1664003@gmail.com
