@@ -4,7 +4,7 @@ This repository contains the comprehensive projects and documentation completed 
 
 # 📂 Project Structure
 
-# 🕸️ Task 1: Advanced Web Scraping
+# Task 1: Advanced Web Scraping
 
 - Objective: Bridge the gap between unstructured web data and structured analysis by creating custom datasets.
 
@@ -14,21 +14,21 @@ This repository contains the comprehensive projects and documentation completed 
 
 - Key Skills: Data mining, HTML structure analysis, handling CSS selectors, and data export (CSV/JSON).
 
-# 🔍 Task 2: Exploratory Data Analysis (EDA)
+# Task 2: Exploratory Data Analysis (EDA)
 
 - Objective: Uncover the "hidden story" within datasets through statistical rigor.
 
 - Process:
 
-// Data Auditing: Inspected data types, handled null values, and treated outliers.
+- Data Auditing: Inspected data types, handled null values, and treated outliers.
 
-// Statistical Profiling: Calculated measures of central tendency and dispersion.
+- Statistical Profiling: Calculated measures of central tendency and dispersion.
 
-// Hypothesis Testing: Validated assumptions about variables using correlation matrices and distribution plots.
+- Hypothesis Testing: Validated assumptions about variables using correlation matrices and distribution plots.
 
 - Insights: Identified critical trends and anomalies that inform business intelligence.
 
-# 📈 Task 3: Data Visualization
+# Task 3: Data Visualization
 
 - Objective: Transform raw numbers into intuitive, high-fidelity visual assets.
 
@@ -40,15 +40,15 @@ This repository contains the comprehensive projects and documentation completed 
 
 - Deliverable: A suite of polished, professional-grade dashboards.
 
-# 🎭 Task 4: Sentiment Analysis (NLP)
+# Task 4: Sentiment Analysis (NLP)
 
 - Objective: Quantify public perception and emotional tone from textual data.
 
 - Workflow:
 
-// Text Preprocessing: Tokenization, lemmatization, and noise reduction (Stop-word removal).
+- Text Preprocessing: Tokenization, lemmatization, and noise reduction (Stop-word removal).
 
-// Sentiment Modeling: Classified text into Positive, Negative, or Neutral using NLP lexicons and emotional detection algorithms.
+- Sentiment Modeling: Classified text into Positive, Negative, or Neutral using NLP lexicons and emotional detection algorithms.
 
 - Application: Analyzed sources like Amazon reviews or social media to derive actionable brand insights.
 
@@ -60,16 +60,17 @@ This repository contains the comprehensive projects and documentation completed 
 - Natural Language Processing: "NLTK, TextBlob, VADER"
 - Environment: "Jupyter Notebooks, VS Code, Git"
 
-# 🚀 Installation & Usage
-- Clone the Repository:
+# Installation & Usage
 
-// git clone https://github.com/YourUsername/CodeAlpha_Data_Analytics.git
+Clone the Repository:
 
-- Setup Environment:
+git clone https://github.com/YourUsername/CodeAlpha_Data_Analytics.git
 
-// pip install -r requirements.txt
+Setup Environment:
 
-- Execution: Explore the individual task folders (e.g., /Task-01-Web-Scraping) and run the Jupyter notebooks to see the analysis in real-time.
+pip install -r requirements.txt
+
+Execution: Explore the individual task folders (e.g., /Task-01-Web-Scraping) and run the Jupyter notebooks to see the analysis in real-time.
 
 # 📌 Internship Highlights
 
