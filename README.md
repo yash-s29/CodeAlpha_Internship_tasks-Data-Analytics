@@ -64,9 +64,7 @@ This repository contains the comprehensive projects and documentation completed 
 
 Clone the Repository:
 
-git clone https://github.com/yash-s29/C
-
-odeAlpha_Internship_tasks-Data-Analytics.git
+git clone https://github.com/yash-s29/CodeAlpha_Internship_tasks-Data-Analytics.git
 
 Setup Environment:
 
